@@ -4,3 +4,4 @@ def batch_badge_creator(names)
 end
 
 names = ["Zoey", "Zander", "Laura"]
+puts batch_badge_creator(names)

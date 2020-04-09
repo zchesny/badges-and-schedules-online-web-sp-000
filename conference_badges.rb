@@ -16,5 +16,5 @@ def printer(names)
   puts assign_rooms(names)
 end
 
-names = ["Zoey", "Zander", "Laura"]
-puts batch_badge_creator(names)
+# names = ["Zoey", "Zander", "Laura"]
+# puts batch_badge_creator(names)

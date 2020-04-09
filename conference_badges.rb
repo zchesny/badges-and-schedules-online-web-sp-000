@@ -1,6 +1,6 @@
 # Write your code here.
 def batch_badge_creator(names)
-  names.map!{|name| "Hello, my name is #{name}."}
+  names.map{|name| "Hello, my name is #{name}."}
 end
 
 def assign_rooms(speakers)
